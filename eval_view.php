@@ -9,7 +9,7 @@
 <body>
     <main>
         <h1>Product Evaluation Form</h1>
-        <form action="" href="">
+        <form action="Includes/eval_contr.inc.php" method="post">
             <div class="alignment">
                 <label class="block">1. What's your name?</label>
                 <input type="text" name="fname" placeholder="First Name" required>
